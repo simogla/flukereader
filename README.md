@@ -1,3 +1,6 @@
+# State of Project 
+As i don't have access to a Fluke Scopemeter anymore, no further development is planned
+
 # flukereader
 Little Python script for talking to Fluke ScopeMeters
 
